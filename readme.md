@@ -10,8 +10,8 @@ I thought about building my own dimmer but then I discovered the RobotDyn AC Dim
 
 - [X] Select & Buy Hardware 
 - [X] Connect the ESP to the Shelly and fetch data
-- [ ] Connect the AC Dimmer to the ESP and check functionality
-- [ ] Programm the control software to use only the overproduction
+- [X] Connect the AC Dimmer to the ESP and check functionality
+- [X] Programm the control software to use only the overproduction
 - [ ] Connect everything together and add a housing
 - [ ] Optional: Add a measurement method and store the data
 - [ ] Final Tests
